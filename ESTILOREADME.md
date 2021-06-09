@@ -1,5 +1,3 @@
-
-Penggabungan baris
 <teamtalk>
 	<host>		
 	<name>ESTILO NEW</name>	
